@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cijibin314
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...promises
+- 🌱 I’m currently learning ...AI/ML/NNW
 - 💞️ I’m looking to collaborate on ...stuff
 - 📫 How to reach me ...coltonflather@gmail.com
 
